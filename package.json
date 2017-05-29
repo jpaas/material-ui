@@ -63,7 +63,7 @@
     "object-assign": "^4.1.1",
     "prop-types": "^15.5.10",
     "react-event-listener": "^0.4.5",
-    "react-scrollbar-size": "^1.0.1",
+    "react-scrollbar-size": "git://github.com/jpaas/react-scrollbar-size.git",
     "react-transition-group": "^1.1.3",
     "recompose": "^0.23.4",
     "scroll": "^2.0.0",
